@@ -14,6 +14,8 @@ Me gusta enseñar :man_teacher: y me gusta la programación, las matemáticas.
 - Big Data
 - Mathematical Modeling
 - Drug Solubility
+- Latex
+- Python
 
 ## Contacto
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/efrainriivera)](https://twitter.com/efrainriivera)
